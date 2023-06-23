@@ -7,3 +7,4 @@ class Finder(App):
 
 if __name__ == '__main__':
     Finder().run()
+
